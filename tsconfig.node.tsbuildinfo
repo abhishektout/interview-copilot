@@ -1,0 +1,1 @@
+{"root":["./electron/ai/geminiService.ts","./electron/ipc/handlers.ts","./electron/main/index.ts","./electron/main/shortcutManager.ts","./electron/main/windowManager.ts","./electron/preload/index.ts","./electron/services/screenShareDetector.ts","./electron/storage/storageService.ts","./vite.config.ts"],"version":"5.9.3"}
